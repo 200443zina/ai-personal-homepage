@@ -150,11 +150,10 @@
 
 主要包括：
 
-- 微观经济学助教
-- 宏观经济学助教
-- 山大视点学生编辑
-- 动物保护协会财务负责人
-- 学生在线活动策划部成员
+- 微观+宏观经济学助教  详细信息见：`campus/teaching.md`
+- 山大视点学生编辑  详细信息见：`campus/shanda_viewpoint.md`
+- 动物保护协会财务负责人 详细信息见：`campus/student_activities.md`
+- 学生在线活动策划部成员 详细信息见：`campus/animal_protection.md`
 
 ## 目前关注方向
 
