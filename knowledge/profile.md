@@ -152,8 +152,8 @@
 
 - 微观+宏观经济学助教  详细信息见：`campus/teaching.md`
 - 山大视点学生编辑  详细信息见：`campus/shanda_viewpoint.md`
-- 动物保护协会财务负责人 详细信息见：`campus/student_activities.md`
-- 学生在线活动策划部成员 详细信息见：`campus/animal_protection.md`
+- 学生在线活动策划部成员 详细信息见：`campus/student_activities.md`
+- 动物保护协会财务负责人 详细信息见：`campus/animal_protection.md`
 
 ## 目前关注方向
 
@@ -187,4 +187,8 @@
 | 实验经济学研究 | `research/experimental_economics.md` |
 | 安永杯·第九届全国大学生泰德商业案例分析大赛   | `Competition/taide.md` |
 | 第六届美团商业分析精英大赛 | `Competition/meituan.md` |
+| 微观+宏观经济学助教   | `campus/teaching.md` |
+| 山大视点学生编辑   | `campus/shanda_viewpoint.md` |
+| 学生在线活动策划部成员   | `campus/student_activities.md` |
+| 动物保护协会财务负责人   | `campus/animal_protection.md` |
 | 证据边界与不可推断内容 | `boundaries.md` |
